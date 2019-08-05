@@ -1,0 +1,14 @@
+.activities {
+  text-align: center;
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.container {
+  margin-left: 5%;
+}
+body{
+  background-color: #f4f6f6;
+  font-family: 'Raleway', sans-serif;
+}
